@@ -1,5 +1,3 @@
-
-# 💫 About Me:
 👋 Hi, I'm Krishna Vamsi Bommireddy!<br>I'm a passionate Full Stack Developer skilled in MERN Stack, Spring Boot, AI, and Machine Learning. I love building scalable applications and exploring new technologies.<br><br>💻 Tech Stack<br>Languages: Java, Python, C, C++, HTML, CSS, JavaScript<br>Backend: Node.js, Express.js, Spring Boot<br>Database: MongoDB<br>Other Interests: AI & Machine Learning<br>📫 Connect with Me<br>📧 Email: krishnavamsibommireddy07@gmail.com<br>💼 LinkedIn: Krishna Vamsi Bommireddy
 
 
